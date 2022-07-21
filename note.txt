@@ -1,0 +1,16 @@
+step(1) installation dependencies
+
+   yarn add  @ui-kitten/components @eva-design/eva react-native-svg
+
+
+step(2) installation icons
+
+  yarn add  @ui-kitten/eva-icons react-native-vector-icons
+
+  npx react-native link react-native-vector-icons 
+
+
+  step(3)
+  yarn add @react-navigation/bottom-tabs 
+
+
